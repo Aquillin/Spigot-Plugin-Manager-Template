@@ -1,0 +1,7 @@
+main: com.domain.app.Main
+name: APP_NAME
+version: 1.0.0
+author: YOUR_USERNAME
+api-version: 1.14
+description: PLUGIN_DESCRIPTION
+commands:
